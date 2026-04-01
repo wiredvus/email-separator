@@ -18,4 +18,4 @@ except FileNotFoundError:
 except Exception as e:
     print(f"Ocorreu um erro: {e}")
 
-#feito por Vus
+#feito por @wiredvus
